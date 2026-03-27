@@ -61,7 +61,7 @@ Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i 
 
 | Projekt | Opis | Stack |
 |---|---|---|
-| 🏠 **[Startup| Next.js, PostgreSQL |
+| 🏠 **[Startup]** | Next.js, PostgreSQL |
 | 🔔 **[reminderapp.pl](https://reminderapp.pl)** | Przypomnienia sterowane głosem z wykorzystaniem AI | Node.js, MySQL, Docker, Linux |
 | 🌐 **HAFTINA** | Serwis e-commerce — aktualizacje UI/backend, automatyzacja bazy danych | PHP, MySQL |
 
@@ -72,7 +72,3 @@ Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i 
 Doświadczenie w okablowaniu strukturalnym LAN — instalacja okablowania sieciowego i konfiguracja.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanholo1&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" />
-</p>
