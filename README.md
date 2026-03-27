@@ -16,7 +16,7 @@
 
 ### O mnie
 
-Programuję z pasji od dziecka. Buduję aplikacje webowe, wdrażam modele AI w produkcji i interesuję się architekturą systemów. Aktualnie rozwijam startup **Homi** — platformę dla zarządców wspólnot mieszkaniowych.
+Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i interesuję się architekturą systemów. Aktualnie rozwijam startup.
 
 ---
 
