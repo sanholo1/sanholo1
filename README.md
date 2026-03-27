@@ -61,7 +61,7 @@ Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i 
 
 | Projekt | Opis | Stack |
 |---|---|---|
-| 🏠 **[Homi](https://homi.pl)** | Platforma dla zarządców wspólnot mieszkaniowych z botem AI | Next.js, PostgreSQL, Docker |
+| 🏠 **[Startup| Next.js, PostgreSQL |
 | 🔔 **[reminderapp.pl](https://reminderapp.pl)** | Przypomnienia sterowane głosem z wykorzystaniem AI | Node.js, MySQL, Docker, Linux |
 | 🌐 **HAFTINA** | Serwis e-commerce — aktualizacje UI/backend, automatyzacja bazy danych | PHP, MySQL |
 
@@ -69,7 +69,7 @@ Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i 
 
 ### Sieci
 
-Doświadczenie w okablowaniu strukturalnym LAN — instalacja ponad 1 km okablowania sieciowego i konfiguracja infrastruktury szkolnej (SP Arkona, Katowice).
+Doświadczenie w okablowaniu strukturalnym LAN — instalacja okablowania sieciowego i konfiguracja.
 
 ---
 
