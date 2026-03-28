@@ -61,9 +61,9 @@ Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i 
 
 | Projekt | Opis | Stack |
 |---|---|---|
-| 🏠 **[Startup]** | Next.js, PostgreSQL |
-| 🔔 **[reminderapp.pl](https://reminderapp.pl)** | Przypomnienia sterowane głosem z wykorzystaniem AI | Node.js, MySQL, Docker, Linux |
-| 🌐 **HAFTINA** | Serwis e-commerce — aktualizacje UI/backend, automatyzacja bazy danych | PHP, MySQL |
+| **Homi** | Next.js, PostgreSQL |
+| **[reminderapp.pl](https://reminderapp.pl)** | Przypomnienia sterowane głosem z wykorzystaniem AI | Node.js, MySQL, Docker, Linux |
+| **HAFTINA** | Serwis e-commerce — aktualizacje UI/backend, automatyzacja bazy danych | PHP, MySQL |
 
 ---
 
