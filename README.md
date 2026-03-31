@@ -16,7 +16,7 @@
 
 ### O mnie
 
-Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i interesuję się architekturą systemów. Aktualnie rozwijam startup.
+Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i interesuję się architekturą systemów. Aktualnie rozwijam startup @ Homi.
 
 ---
 
