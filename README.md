@@ -1,7 +1,7 @@
 <h1 align="center">Jakub Krak</h1>
 
 <p align="center">
-  Full-Stack Developer &nbsp;|&nbsp; AI & Backend &nbsp;|&nbsp; Student Politechniki Śląskiej
+  Full-Stack Dev &nbsp;|&nbsp; AI & Backend &nbsp;|&nbsp; IT engineer, Silesian University of Technology AEiI
 </p>
 
 <p align="center">
@@ -16,7 +16,6 @@
 
 ### O mnie
 
-Programuję z pasji. Buduję aplikacje webowe, wdrażam modele AI w produkcji i interesuję się architekturą systemów. Aktualnie rozwijam startup @ Homi.
-
+Passionate about software engineering, web application development, production-grade AI deployment, and system architecture. Currently building a startup @ Homi.
 ---
 
