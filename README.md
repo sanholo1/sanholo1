@@ -14,7 +14,7 @@
 
 ---
 
-### O mnie
+### About me
 
 Passionate about software engineering, web application development, production-grade AI deployment, and system architecture. Currently building a startup @ Homi.
 
